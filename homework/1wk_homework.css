@@ -18,7 +18,7 @@
     align-items: center;
     /* 이렇게 해줘야 가운데 정렬됨. ㅎㅎ  */
     /* margin: 0 auto; */ 라고 하면 먹지 않는다. 
-    border: 1px solid blueviolet;
+    /* border: 1px solid blueviolet; */
     
 }
 
